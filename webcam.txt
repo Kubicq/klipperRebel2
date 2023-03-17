@@ -1,0 +1,4 @@
+camera="usb"
+camera_usb_options="-r 1280x720 -f 15"
+camera_http_webroot="./www"
+camery_http_options="-n"
